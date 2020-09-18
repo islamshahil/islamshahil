@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahil</h1>
-<h3 align="center">A Systems Engineer from India. Lets build amazing stuff together!</h3>
+<h3 align="center">A Software Engineer from India. Lets build amazing stuff together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=islamshahil" alt="islamshahil" /> </p>
 
