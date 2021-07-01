@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=islamshahil" alt="islamshahil" /> </p>
 
-- 🌱 I’m currently working **Security, Threat Hunting, DevOps, Automation**
+- 🌱 I’m currently working on **Security, Threat Hunting, DevOps, Automation**
 
 - 📫 You can reach me at **shahilislam@gmail.com** 
 
